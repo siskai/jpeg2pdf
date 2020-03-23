@@ -8,7 +8,7 @@ PKG_RELEASE:=1
 
 # Source settings (i.e. where to find the source codes)
 # This is a custom variable, used below
-SOURCE_DIR:=/opt/openwrt-sdk-18.06.1-ar71xx-generic_gcc-7.3.0_musl.Linux-x86_64/package/jpeg2pdf
+SOURCE_DIR:=$(TOPDIR)/package/jpeg2pdf
 
 include $(INCLUDE_DIR)/package.mk
 
