@@ -1,4 +1,4 @@
-# jpeg2pdf
+# jpeg2pdf (JPEG/JPG to PDF)
 
 **HOW TO USE**
 
